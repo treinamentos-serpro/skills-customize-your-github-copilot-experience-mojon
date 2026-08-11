@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "functions-and-modules",
+      "title": "Functions and Modules",
+      "description": "Learn how to organize Python programs using functions, parameters, return values, and modules for reusable code.",
+      "path": "assignments/functions-and-modules",
+      "dueDate": "2026-08-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Helper Module",
+          "file": "module_utils.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
